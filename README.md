@@ -15,4 +15,9 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br />
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coderxtushar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=coderxtushar&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderxtushar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
