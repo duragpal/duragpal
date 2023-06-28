@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There!+I'm+Durag+Pal+Singh.)
 
-- 👀 I’m interested in Open Source and DevOps.
+- 👀 I’m interested in Open Source, Machine Learning and MLOps.
 - 🌱 I’m currently learning and exploring Git and Open source..
-- 🎓 Fresher, pursuing Bachelor’s degree in Computer Science from Invertis University, Uttar Pradesh.
-- ⚡️  Expertise primarily Google cloud, Docker and CI/CD.
+- 🎓 Sophomore, pursuing Bachelor’s degree in Computer Science from Invertis University, Uttar Pradesh.
+- ⚡️  Looking forward to learning various technologies including machine learning, computer vision etc.
 
 ### 📋 Programming Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
