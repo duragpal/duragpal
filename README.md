@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There!+I'm+Durag+Pal+Singh.)
 
-- 👀 I’m interested in Open Source, Machine Learning and MLOps.
-- 🌱 I’m currently learning and exploring Git and Open source..
+- 👀 I’m interested in Open Source and Full stack development.
+- 🌱 I’m currently learning and exploring Git and Open source.
 - 🎓 Sophomore, pursuing Bachelor’s degree in Computer Science from Invertis University, Uttar Pradesh.
-- ⚡️  Looking forward to learning various technologies including machine learning, computer vision etc.
+- ⚡️  Looking forward to learning various technologies including frontend,backend frameworks and devops etc.
 
 ### 📋 Programming Languages:
 
