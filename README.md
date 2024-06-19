@@ -19,8 +19,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📋 Backend Development:
+
 ![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E)
 ![Mongoose](https://img.shields.io/badge/mongoose-%231572B6.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%23E34F26.svg?style=for-the-badge&logo=zod&logoColor=white)
 
 
 ### 📋 Databases: 
