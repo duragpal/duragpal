@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There!+I'm+Durag+Pal+Singh.)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duragpal&label=Profile%20views&color=0e75b6&style=flat" alt="duragpal" /> </p>
+
 - 👀 I’m interested in Open Source and Full stack development.
 - 🌱 I’m currently learning and exploring Git and Open source.
 - 🎓 Sophomore, pursuing Bachelor’s degree in Computer Science from Invertis University, Uttar Pradesh.
