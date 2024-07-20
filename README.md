@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning and exploring Git and Open source.
 - 🎓 Sophomore, pursuing Bachelor’s degree in Computer Science from Invertis University, Uttar Pradesh.
 - ⚡️  Looking forward to learning various technologies including frontend,backend frameworks and devops etc.
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=duragpal&label=Profile%20views&color=0e75b6&style=flat" alt="duragpal" /> </p>
-
 
 ### 📋 Programming Languages:
 
@@ -49,6 +47,9 @@
 	  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duragpal&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=duragpal&theme=tokyonight" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duragpal&label=Profile%20views&color=0e75b6&style=flat" alt="duragpal" /> </p>
+
 
 
 
