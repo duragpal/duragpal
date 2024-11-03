@@ -1,9 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There!+I'm+Durag+Pal+Singh.)
 
-- 👀 I’m interested in Open Source and Full stack development.
-- 🌱 I’m currently learning and exploring Git and Open source.
-- ⚡️  Looking forward to learning various technologies including frontend,backend frameworks and devops etc.
-
 ### 📋 My Tech Stack :
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
